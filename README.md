@@ -391,7 +391,7 @@ IOTERA mengambil posisi yang berbeda dan saling melengkapi: fokusnya berada pada
 
 | Antarmuka library/desain | Visualisasi koneksi logika |
 | :---: | :---: |
-| <img src="REFRENSI/Freedc.jpeg" alt="Referensi antarmuka FreeDC IoT" width="360"> | <img src="REFRENSI/WhatsApp%20Image%202026-08-23%20at%2014.19.51.jpeg" alt="Referensi visual koneksi komponen" width="360"> |
+| <img src="REFRENSI/Freedc.jpeg" alt="Referensi antarmuka FreeDC IoT" width="360"> | <img src="REFRENSI/UICONTOH.jpeg" alt="Referensi visual koneksi komponen" width="360"> |
 | Inspirasi penyajian library dan area kerja interaktif. | Inspirasi representasi hubungan antar-pin atau blok secara visual. |
 
 ## Daftar Pustaka
