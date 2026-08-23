@@ -1,0 +1,1 @@
+Dari seluruh kelompok tersebut, sasaran utama IOTERA adalah pelajar, mahasiswa, pemula, dan inovator muda yang memiliki ide proyek IoT tetapi mengalami keterbatasan dalam menerjemahkan ide tersebut menjadi rancangan teknis.
